@@ -1,0 +1,143 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-family: 'Tangerine', cursive;
+  font-size: 6.25rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.9rem;
+  color: #66BFBF;
+  margin: 1.5rem;
+}
+
+h3 {
+  color: #11999E;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  width: 5%;
+  color: #CACACA;
+  margin-bottom: 90px;
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.profile-photo {
+  height: 150px;
+}
+
+.pho-img {
+  background-color: #FFC0D0;
+  border-radius: 50%;
+  float: right;
+  margin-left: 20px;
+  width: 20%;
+}
+.pro-img {
+  background-color: #A7D7C5;
+  border-radius: 50%;
+  float: left;
+  margin-right: 20px;
+  width: 20%;
+}
+
+
+.top-container {
+  background-color: #EFFFFB;
+  margin-top: 0;
+  position: relative;
+  padding-top: 6.25rem;
+}
+
+.bottom-container {
+  margin: 5rem 0 0 0;
+  background-color: #66BFBF;
+  padding: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 4.125rem;
+  right: 18.75rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 18.75rem;
+  bottom: 18.75rem;
+}
+
+
+.profile {
+  margin: 5rem auto 5rem auto;
+  width: 30%;
+  line-height: 2;
+  color: #40514E;
+}
+.skills {
+  margin: 5rem auto 5rem auto;
+}
+.copyright {
+  color: #EAF6F6;
+  margin-bottom: 0;
+  margin-top: 40px;
+  font-size: 0.75rem;
+}
+
+.footer-link {
+margin: 0 20px 50px 20px;
+}
+
+.footer-link:hover {
+  color: #EAF6F6;
+}
+
+.bttn {
+  background: #11cdd4;
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-style: none;
+  margin-top: 30px;
+  font-family: 'Montserrat', sans-serif;
+  border-radius: 8px;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+
+.bttn:hover {
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+.spce {
+  margin-top: 40px
+}
+
+.contact-me {
+  width: 40%;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+}
